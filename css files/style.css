@@ -1,4 +1,4 @@
-.interface{
+.main{
     background-color: rgb(197, 212, 212);
     padding-top: 50px;
     padding-bottom: 50px;
@@ -8,7 +8,7 @@
     margin: 70px auto;
 }
 
-.frontend{
+.container{
     background-color: white;
     
     text-align: center;
