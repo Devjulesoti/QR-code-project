@@ -1,0 +1,41 @@
+.interface{
+    background-color: rgb(197, 212, 212);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border: none;
+    box-shadow: 5px 8px 12px rgba(0, 0, 0, 0.15);
+    max-width: 90%;
+    margin: 70px auto;
+}
+
+.frontend{
+    background-color: white;
+    
+    text-align: center;
+    width: 180px;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 0 auto;
+    
+}
+
+.par1 {
+    font-family: 'roboto',sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 20px;
+
+}
+.par2{
+    color: rgb(117, 112, 112);
+    font-size: 11.5px;
+    font-weight: 500;
+    line-height: 15px;
+
+}
+.qr-image{
+    object-fit: cover;
+    object-position: center;
+    width: 180px;
+    border-radius: 6px;
+}
